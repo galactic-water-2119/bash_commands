@@ -1,0 +1,2 @@
+$ find /dest -name "*string*"
+$ find . -name "*string*"
